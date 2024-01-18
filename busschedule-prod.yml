@@ -1,0 +1,21 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+  datasource:
+    url: jdbc:postgresql://localhost:5432/schedules
+    username: postgres
+    password: Pavan6458@
+
+
+build:
+  version: 1.2
+
+account:
+  message: "welcome to bus booking related to Prod Apis"
+  contactDetails:
+    name: "pavan chakravarthi s p"
+    emial: "pk356639@gmail.com"
+  onCallSupport:
+    -(555) 555-1255
+    -(555) 555-1266

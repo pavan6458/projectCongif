@@ -1,0 +1,19 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+  datasource:
+    url: jdbc:postgresql://localhost:5432/usermaster
+    username: postgres
+    password: Pavan6458@
+build:
+  version: 1.1
+
+account:
+  message: "welcome to bus booking related to QA Apis"
+  contactDetails:
+    name: "pavan kumar s p"
+    emial: "pk356639@gmail.com"
+  onCallSupport:
+    -(555) 555-1234
+    -(555) 555-1235
