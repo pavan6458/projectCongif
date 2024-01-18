@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/schedules
     username: postgres
-    password: {cipher}964aca1e6f605fb4f31c1eac82f5cc444154ed88936383c5adb0a7fdb3a3797d
+    password: "{cipher}964aca1e6f605fb4f31c1eac82f5cc444154ed88936383c5adb0a7fdb3a3797d"
 build:
   version: 1.1
 
