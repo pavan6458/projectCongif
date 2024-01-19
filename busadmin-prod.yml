@@ -9,7 +9,7 @@ spring:
 
 
 build:
-  version: 61s
+  version: 6s
 
 account:
   message: "welcome to bus booking related to Prod Apis"
