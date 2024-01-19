@@ -12,7 +12,7 @@ build:
   version: 1.2
 
 account:
-  message: "welcome to bus booking related to Prod Apis"
+  message: "welcome to redbus booking related to Prod Apis"
   contactDetails:
     name: "pavan chakravarthi s p"
     emial: "pk356639@gmail.com"
