@@ -3,16 +3,16 @@ spring:
     activate:
       on-profile: "prod"
   datasource:
-    url: jdbc:postgresql:localhost:5432/busservice
+    url: jdbc:postgresql://localhost:5432/busservice
     username: postgres
     password: "{cipher}964aca1e6f605fb4f31c1eac82f5cc444154ed88936383c5adb0a7fdb3a3797d"
 
 
 build:
-  version: 1.2 spring clou
+  version: 1.2
 
 account:
-  message: "welcome to redbus booking related to Prod Apis"
+  message: "welcome to bus booking related to Prod Apis"
   contactDetails:
     name: "pavan chakravarthi s p"
     emial: "pk356639@gmail.com"
