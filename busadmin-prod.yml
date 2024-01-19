@@ -3,7 +3,7 @@ spring:
     activate:
       on-profile: "prod"
   datasource:
-    url: jdbc:postgresql://localhost:5432/busservice
+    url: jdbc:postgresql:34.227.86.97:5432/busservice
     username: postgres
     password: "{cipher}964aca1e6f605fb4f31c1eac82f5cc444154ed88936383c5adb0a7fdb3a3797d"
 
